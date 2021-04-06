@@ -1,4 +1,4 @@
-package hw1;
+package il.ac.tau.cs.sw1.ex1;
 
 public class assignment1 {
 
